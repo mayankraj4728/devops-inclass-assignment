@@ -1057,6 +1057,6 @@ Do not assume Revision 1 matches `v1` or Revision 2 matches `v2`. Always inspect
 | **Verify Pods** | `kubectl get pods -l app=app-rolling --show-labels` |
 
 # Author
-Samarth Patil
+Mayank Raj
 
-24bcs10171
+24bcs10351
